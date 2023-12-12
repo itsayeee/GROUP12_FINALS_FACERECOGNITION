@@ -115,7 +115,7 @@ Mayor Duterte is running on shifting the system of government to federalism to v
 ## 2.) Atty. Sunshine Charry A. Fajarda
 
 <div align="justify">
-
+Atty. Sunshine Charry Fajarda was named Education assistant secretary while former Lanao Del Sur representative Muhammad Hussein Pangandaman is the new administrator of the Authority of the freeport of Bataan, according to the list released by the Presidential Communications Office (PCO).
 
   ![sunshine](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/144222201/779767ad-9ec3-4161-9b18-6a382e31fc6b)
 
