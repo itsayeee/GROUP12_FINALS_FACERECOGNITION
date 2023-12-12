@@ -143,3 +143,4 @@ The following faces below are both from the teaching force of Batangas State Uni
 
 ## References
 * https://en.wikipedia.org/wiki/Department_of_Education_(Philippines)
+* https://www.deped.gov.ph/contact-us/directory/
