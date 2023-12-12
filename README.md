@@ -148,7 +148,7 @@ The following faces below are both from the teaching force of Batangas State Uni
 #### 1.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![sirlouie](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/8a8f26ab-b5e4-4f9f-a891-96bd6dcf0772)
 
-#### 2.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
+#### 2.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "ronnel.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![ronnel](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/a26a52d7-46cc-4d1d-b105-d2cf5463f2e9)
 
 #### 3.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "mikkodetorres.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
@@ -157,10 +157,10 @@ The following faces below are both from the teaching force of Batangas State Uni
 #### 4.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "aybee ramos.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![aybee](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/08a3e95a-9fef-4b38-b69b-61602458a280)
 
-#### 5.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
+#### 5.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "kevin.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![kevin](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/02836036-871d-413b-8621-6cce52936c1a)
 
-#### 6.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
+#### 6.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "kier.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![kier](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/75a2f23d-10ea-4e0e-94f4-95be4a00bf62)
 
 #### 7.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "erikkaatienza.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
