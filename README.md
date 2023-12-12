@@ -1,5 +1,7 @@
 # GROUP12_FINALS_FACERECOGNITION
 
+![Group12-removebg-preview](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/da56c9ae-5ece-42a9-987f-5949ae40190e)
+
 
 **_Authors: Cornejo, Ayessa Joyce C. , Agno, Christian Levi S. , Siervo, Jamaica C._**
 
