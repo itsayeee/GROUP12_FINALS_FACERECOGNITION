@@ -39,7 +39,7 @@ The group used the following codes for this activity to be a success:
     
 ![michael (1)](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/af40abfb-7c98-4e8e-920a-ed24c10841c9)
 
-    face_3 = face_recognition.load_image_file("epimaco1.jpg")
+    face_3 = face_recognition.load_image_file("marilettealmayda.jpg")
     face_3_encoding = face_recognition.face_encodings(face_3)[0]
 
 
@@ -72,7 +72,7 @@ The group used the following codes for this activity to be a success:
     known_face_names = [
                     "Sara Duterte",
                     "Atty. Michael Wesley Poa",
-                    "Epimaco V. Densing III",
+                    "Marilette Almayda",
                     "Nolasco Mempin",
                     "Gina O. Gonong",
     ]
