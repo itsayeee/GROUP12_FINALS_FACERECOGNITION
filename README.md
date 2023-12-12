@@ -111,10 +111,9 @@ The group used the following codes for this activity to be a success:
 The following faces below are both from the teaching force of Batangas State University and Our Lady of Peace Academy. The group chose them since they are also inclined with the primary topic "school" as they belong to a teaching institution. 
 
 
+![sirlouie](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/8a8f26ab-b5e4-4f9f-a891-96bd6dcf0772)
 
- ![sirlouie](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/8a8f26ab-b5e4-4f9f-a891-96bd6dcf0772)
-
- ![ronnel](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/a26a52d7-46cc-4d1d-b105-d2cf5463f2e9)
+![ronnel](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/a26a52d7-46cc-4d1d-b105-d2cf5463f2e9)
 
 ![mikko](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/50f44863-98a1-42c1-858b-91ef2bc5c181)
 
