@@ -98,11 +98,24 @@ The group used the following codes for this activity to be a success:
 <div align="justify">
     The order of precedence in the Philippines is the protocol used in ranking government officials and other personages in the Philippines. Purely ceremonial in nature, it has no legal standing, and does not reflect the presidential line of succession nor the equal status of the three branches of government established in the 1987 Constitution.
 
-## 1.)
+## 1.) Sara Zimmerman Duterte
+
+<div align="justify">
+
+Sara Duterte, 43, is the incumbent mayor of Davao City. She became the city's first female mayor and the youngest to ever be elected in its history. She is the daughter of President Rodrigo Duterte who also served as mayor of the southern city for several terms before seeking the country's highest office.
+
+Duterte is the running-mate of Ferdinand "Bongbong" Marcos Jr., a former senator who is also the son and namesake of the late ousted dictator. She entered the vice presidential race at the last hour via substitution after initially claiming that she had no interest in seeking a national post.
+
+Her younger brother, Davao City Vice Mayor Sebastian “Baste” Duterte withdrew his bid for reelection and substituted into the Davao City mayoral race. Their brother, Paolo Duterte, has retained his candidacy for reelection as representative of the 1st District of Davao City.
+
+Mayor Duterte is running on shifting the system of government to federalism to veer away from what she derides as "imperial Manila," a hark back to her father's own campaign rhetoric. Her last-minute substitution into a national race is also reminiscent of her father's own run.
 
  ![sara](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/fa80e3e6-3835-4aed-a208-786f841de453)
 
-## 2.)
+## 2.) Atty. Sunshine Charry A. Fajarda
+
+<div align="justify">
+
 
   ![sunshine](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/144222201/779767ad-9ec3-4161-9b18-6a382e31fc6b)
 
