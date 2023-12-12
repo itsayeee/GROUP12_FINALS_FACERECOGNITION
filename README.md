@@ -53,3 +53,28 @@ The group used the following codes for this activity to be a success:
                     "Nolasco Mempin",
                     "Gina O. Gonong",
     ]
+
+
+## Running of Face Recognition on the officials of DepEd
+        This Python script utilizes the face_recognition library and OpenCV to perform face recognition on an uploaded image. It detects faces in the image, compares their encoded data to known encodings, and displays the results. Faces are identified by drawing rectangles around them and adding their corresponding names as annotations.
+
+        file_name = " "
+        unknown_image = face_recognition.load_image_file(file_name)
+        unknown_image_to_draw = cv2.imread(file_name)
+    
+        face_locations = face_recognition.face_locations(unknown_image)
+        face_encodings = face_recognition.face_encodings(unknown_image, face_locations)
+    
+        for (top,right, bottom, left), face_encoding in zip(face_locations, face_encodings):
+          matches = face_recognition.compare_faces(known_face_encodings, face_encoding)
+    
+          name = "Unknown"
+    
+          face_distances = face_recognition.face_distance(known_face_encodings, face_encoding)
+          best_match_index = np.argmin(face_distances)
+          if matches[best_match_index]:
+            name = known_face_names[best_match_index]
+          cv2.rectangle(unknown_image_to_draw, (left, top), (right, bottom),(0,255,0),3)
+          cv2.putText(unknown_image_to_draw,name, (left, top-20), cv2.FONT_HERSHEY_SIMPLEX,1,(0,0,255),2, cv2.LINE_AA)
+    
+        cv2_imshow(unknown_image_to_draw)
