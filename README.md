@@ -89,8 +89,14 @@ The group used the following codes for this activity to be a success:
     
         cv2_imshow(unknown_image_to_draw)
 
+<div align="center">
+---
 ## Officials Of The Republic Of The Philippines
+---
+</div>
 
+<div align="justify">
+    The order of precedence in the Philippines is the protocol used in ranking government officials and other personages in the Philippines. Purely ceremonial in nature, it has no legal standing, and does not reflect the presidential line of succession nor the equal status of the three branches of government established in the 1987 Constitution.
 
 ![sara](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/fa80e3e6-3835-4aed-a208-786f841de453)
 
