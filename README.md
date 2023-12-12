@@ -126,12 +126,16 @@ She is the Assistant Secretary of Bureau of Alternative Education, Bureau of Edu
     
   ![marilette](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/84e5a1e5-b747-43cb-8cdf-3d5be903f1f6)
 
-## 4.)
+## 4.) Nolasco A. Mempin
+
+<div align="justify">
+MANILA, Philippines — Two retired generals have been appointed to the Department of Education (DepEd). Retired Maj. Gen. Nolasco Mempin and retired Brig. Gen. Noel Baluyan have been appointed undersecretary and assistant secretary, respectively. The DepEd has yet to confirm which strand they will head, but top officials of the agency’s administration strand recently resigned. Before his retirement, Mempin was the commander of the Philippine Army’s 10th Infantry Division, which has operational responsibility over the Davao Region. He is also a former commander of Task Force Davao when Vice President and Education Secretary Sara Duterte was the mayor of Davao City. Based on his contract, his responsibilities included providing high-level policy advice on “topics that are confidential in nature” and “guidance, technical oversight and expert advice in the development, implementation, monitoring and evaluation of various programs in all levels of governance on safety and security.” The former military man was also tasked to engage and collaborate with other departments and security-related services.
 
   ![mempinnolasco](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/dd45c32c-9d24-4e18-9354-84ac533115c9)
 
-## 5.)
+## 5.) Gina O. Gonong
 
+<div align="justify">
   ![gina](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/6483338a-7773-4a67-8871-5ec7ff57271e)
  
 
