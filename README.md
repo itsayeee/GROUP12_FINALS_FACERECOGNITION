@@ -136,6 +136,8 @@ MANILA, Philippines — Two retired generals have been appointed to the Departme
 ## 5.) Gina O. Gonong
 
 <div align="justify">
+    After serving as Director of RCTQ for six years, Dr. Gina Gonong has been appointed as Undersecretary for Curriculum and Instruction of the Department of Education (DepEd). Dr. Gonong’s career has been dedicated to the support and improvement of Philippine education. She was a classroom teacher, an associate professor in the area of Linguistics, and an academic administrative official. In 2013, she became Deputy Director, and then Director of RCTQ—the only research organization in the country devoted to improving teacher quality. In this latter role, she became known across the Philippines as she led and co-led many strategically focused national research projects that provided critical evidence to inform many DepEd policies.
+    
   ![gina](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/6483338a-7773-4a67-8871-5ec7ff57271e)
  
 
