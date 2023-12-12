@@ -32,7 +32,7 @@ The group used the following codes for this activity to be a success:
     face_1 = face_recognition.load_image_file("Sara Duterte.jpg")
     face_1_encoding = face_recognition.face_encodings(face_1)[0]
 
-    face_2 = face_recognition.load_image_file("Michael Wesley Poa.jpg")
+    face_2 = face_recognition.load_image_file("sunshine.jpg")
     face_2_encoding = face_recognition.face_encodings(face_2)[0]
 
     face_3 = face_recognition.load_image_file("marilettealmayda.jpg")
@@ -58,7 +58,7 @@ The group used the following codes for this activity to be a success:
 
     known_face_names = [
                     "Sara Duterte",
-                    "Atty. Michael Wesley Poa",
+                    "Atty. Sunshine Charry A. Fajarda",
                     "Marilette Almayda",
                     "Nolasco Mempin",
                     "Gina O. Gonong",
