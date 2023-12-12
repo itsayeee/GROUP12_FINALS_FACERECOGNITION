@@ -22,17 +22,30 @@ The group used the following codes for this activity to be a success:
     import cv2
 
     # Creating the encoding profiles
+
+    
     face_1 = face_recognition.load_image_file("Sara Duterte.jpg")
     face_1_encoding = face_recognition.face_encodings(face_1)[0]
+    ![393939211_733252531695686_6637133461878425629_n](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/33137851-b661-4c7a-985d-c17ce014cac6)
 
+    
     face_2 = face_recognition.load_image_file("Michael Wesley Poa.jpg")
     face_2_encoding = face_recognition.face_encodings(face_2)[0]
 
+    
+    ![michael (1)](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/567e3c80-1612-408d-afc2-356caad43501)
+
+    
     face_3 = face_recognition.load_image_file("epimaco1.jpg")
     face_3_encoding = face_recognition.face_encodings(face_3)[0]
 
+    
     face_4 = face_recognition.load_image_file("mempin1.jpg")
     face_4_encoding = face_recognition.face_encodings(face_4)[0]
+
+    ![mempinnolasco](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/dd45c32c-9d24-4e18-9354-84ac533115c9)
+
+    
 
     face_5 = face_recognition.load_image_file("Gonong.jpg")
     face_5_encoding = face_recognition.face_encodings(face_5)[0]
@@ -78,3 +91,6 @@ The group used the following codes for this activity to be a success:
           cv2.putText(unknown_image_to_draw,name, (left, top-20), cv2.FONT_HERSHEY_SIMPLEX,1,(0,0,255),2, cv2.LINE_AA)
     
         cv2_imshow(unknown_image_to_draw)
+
+
+
