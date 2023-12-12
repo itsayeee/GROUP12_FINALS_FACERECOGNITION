@@ -1,5 +1,6 @@
 # GROUP12_FINALS_FACERECOGNITION
 
+
 **_Authors: Cornejo, Ayessa Joyce C. , Agno, Christian Levi S. , Siervo, Jamaica C._**
 
 ## About
@@ -24,25 +25,40 @@ The group used the following codes for this activity to be a success:
     from google.colab.patches import cv2_imshow
     import cv2
 
+
     # Creating the encoding profiles
     face_1 = face_recognition.load_image_file("Sara Duterte.jpg")
     face_1_encoding = face_recognition.face_encodings(face_1)[0]
+
+    
 ![sara](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/fa80e3e6-3835-4aed-a208-786f841de453)
 
     face_2 = face_recognition.load_image_file("Michael Wesley Poa.jpg")
     face_2_encoding = face_recognition.face_encodings(face_2)[0]
+
+    
 ![michael (1)](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/af40abfb-7c98-4e8e-920a-ed24c10841c9)
 
     face_3 = face_recognition.load_image_file("epimaco1.jpg")
     face_3_encoding = face_recognition.face_encodings(face_3)[0]
 
+
+![marilette](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/84e5a1e5-b747-43cb-8cdf-3d5be903f1f6)
+
+
     face_4 = face_recognition.load_image_file("mempin1.jpg")
     face_4_encoding = face_recognition.face_encodings(face_4)[0]
 
+
  ![mempinnolasco](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/dd45c32c-9d24-4e18-9354-84ac533115c9)
+
 
     face_5 = face_recognition.load_image_file("Gonong.jpg")
     face_5_encoding = face_recognition.face_encodings(face_5)[0]
+
+    
+![gina](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/6483338a-7773-4a67-8871-5ec7ff57271e)
+
 
 
     known_face_encodings = [
