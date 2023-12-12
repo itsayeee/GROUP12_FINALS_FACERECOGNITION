@@ -111,34 +111,34 @@ The group used the following codes for this activity to be a success:
 The following faces below are both from the teaching force of Batangas State University and Our Lady of Peace Academy. The group chose them since they are also inclined with the primary topic "school" as they belong to a teaching institution. 
 
 
-## 1.)
+#### 1.)
 ![sirlouie](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/8a8f26ab-b5e4-4f9f-a891-96bd6dcf0772)
 
-## 2.)
+#### 2.)
 ![ronnel](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/a26a52d7-46cc-4d1d-b105-d2cf5463f2e9)
 
-## 3.)
+#### 3.)
 ![mikko](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/50f44863-98a1-42c1-858b-91ef2bc5c181)
 
-## 4.)
+#### 4.)
 ![aybee](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/08a3e95a-9fef-4b38-b69b-61602458a280)
 
-## 5.)
+#### 5.)
 ![kevin](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/02836036-871d-413b-8621-6cce52936c1a)
 
-## 6.)
+#### 6.)
 ![kier](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/75a2f23d-10ea-4e0e-94f4-95be4a00bf62)
 
-## 7.)
+#### 7.)
 ![erikka](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/ead9f134-1ac7-44f3-b15e-4a458699a5e2)
 
-## 8.)
+#### 8.)
 ![finny](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/edc68ebb-c6a3-47ad-9244-3bf8cfc0855d)
 
-## 9.)
+#### 9.)
 ![aggarri](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/62955bd0-5148-4eb1-bb2a-b953495903cd)
 
-## 10.)
+#### 10.)
 ![amboy](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/5bd8c823-9f0c-4604-bcce-4e1f7581b54b)
 
 ## References
