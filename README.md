@@ -24,6 +24,7 @@ The group used the following codes for this activity to be a success:
     # Creating the encoding profiles
     face_1 = face_recognition.load_image_file("Sara Duterte.jpg")
     face_1_encoding = face_recognition.face_encodings(face_1)[0]
+![sara](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/fa80e3e6-3835-4aed-a208-786f841de453)
 
     face_2 = face_recognition.load_image_file("Michael Wesley Poa.jpg")
     face_2_encoding = face_recognition.face_encodings(face_2)[0]
