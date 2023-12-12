@@ -106,3 +106,6 @@ The group used the following codes for this activity to be a success:
 
  ![gina](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/6483338a-7773-4a67-8871-5ec7ff57271e)
 
+## Unknown Teaching Personnel from University and Senior High School
+
+>> The following faces below are both from the teaching force of Batangas State University and Our Lady of Peace Academy. The group chose them since they are also inclined with the primary topic "school" as they belong to a teaching institution. 
