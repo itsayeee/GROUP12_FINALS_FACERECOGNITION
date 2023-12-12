@@ -119,8 +119,11 @@ Atty. Sunshine Charry Fajarda was named Education assistant secretary while form
 
   ![sunshine](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/144222201/779767ad-9ec3-4161-9b18-6a382e31fc6b)
 
-## 3.)
+## 3.) Marilette Almayda
 
+<div align="justify">
+She is the Assistant Secretary of Bureau of Alternative Education, Bureau of Education Assessment, and Literacy Coordinating Council.
+    
   ![marilette](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/84e5a1e5-b747-43cb-8cdf-3d5be903f1f6)
 
 ## 4.)
