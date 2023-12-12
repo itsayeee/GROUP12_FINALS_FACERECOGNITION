@@ -151,10 +151,10 @@ The following faces below are both from the teaching force of Batangas State Uni
 #### 2.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![ronnel](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/a26a52d7-46cc-4d1d-b105-d2cf5463f2e9)
 
-#### 3.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
+#### 3.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "mikkodetorres.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![mikko](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/50f44863-98a1-42c1-858b-91ef2bc5c181)
 
-#### 4.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
+#### 4.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "aybee ramos.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![aybee](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/08a3e95a-9fef-4b38-b69b-61602458a280)
 
 #### 5.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
@@ -163,16 +163,16 @@ The following faces below are both from the teaching force of Batangas State Uni
 #### 6.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![kier](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/75a2f23d-10ea-4e0e-94f4-95be4a00bf62)
 
-#### 7.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
+#### 7.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "erikkaatienza.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![erikka](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/ead9f134-1ac7-44f3-b15e-4a458699a5e2)
 
-#### 8.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
+#### 8.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "finnyplata.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![finny](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/edc68ebb-c6a3-47ad-9244-3bf8cfc0855d)
 
-#### 9.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
+#### 9.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "johncarloagarri.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![aggarri](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/62955bd0-5148-4eb1-bb2a-b953495903cd)
 
-#### 10.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "louievillaverde.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
+#### 10.) 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "jefrilamboy.jpg" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠:
 ![amboy](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/5bd8c823-9f0c-4604-bcce-4e1f7581b54b)
 
 ## Link for the Google Colab Notebook
