@@ -141,3 +141,5 @@ The following faces below are both from the teaching force of Batangas State Uni
 ## 10.)
 ![amboy](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/5bd8c823-9f0c-4604-bcce-4e1f7581b54b)
 
+## References
+* https://en.wikipedia.org/wiki/Department_of_Education_(Philippines)
