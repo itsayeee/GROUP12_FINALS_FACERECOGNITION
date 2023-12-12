@@ -6,6 +6,9 @@
 
 For this final requirement, the group is tasked to create a facial recognition that will identify both known and unknown faces related to the given topic. This should be aligned with the previous activity which is about school as the primary topic. In this activity, the group tends to identify the faces of the officials of the Department of Education as well as the unknown members of the school e.g teaching personnel.
 
+
+![Department-of-Education-DepEd-Logo-2016](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/9bc4839c-7241-4a3e-9f9d-870b1e8404b9)
+
 The group used the following codes for this activity to be a success:
 
 ## **Importing Images from Github and Installing Face_Recognition**
