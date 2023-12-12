@@ -98,13 +98,23 @@ The group used the following codes for this activity to be a success:
 <div align="justify">
     The order of precedence in the Philippines is the protocol used in ranking government officials and other personages in the Philippines. Purely ceremonial in nature, it has no legal standing, and does not reflect the presidential line of succession nor the equal status of the three branches of government established in the 1987 Constitution.
 
+## 1.)
+
  ![sara](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/fa80e3e6-3835-4aed-a208-786f841de453)
+
+## 2.)
 
   ![sunshine](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/144222201/779767ad-9ec3-4161-9b18-6a382e31fc6b)
 
+## 3.)
+
   ![marilette](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/84e5a1e5-b747-43cb-8cdf-3d5be903f1f6)
 
+## 4.)
+
   ![mempinnolasco](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/dd45c32c-9d24-4e18-9354-84ac533115c9)
+
+## 5.)
 
   ![gina](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/6483338a-7773-4a67-8871-5ec7ff57271e)
  
