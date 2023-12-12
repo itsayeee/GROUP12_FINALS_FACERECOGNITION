@@ -95,7 +95,7 @@ The group used the following codes for this activity to be a success:
 ![sara](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/fa80e3e6-3835-4aed-a208-786f841de453)
 
 
-![michael (1)](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/af40abfb-7c98-4e8e-920a-ed24c10841c9)
+![michael](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/144222201/ca1f45bc-9124-453b-b7c2-2336c6b7da23)
 
 
 ![marilette](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/84e5a1e5-b747-43cb-8cdf-3d5be903f1f6)
