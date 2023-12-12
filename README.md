@@ -8,7 +8,7 @@ For this final requirement, the group is tasked to create a facial recognition t
 
 The group used the following codes for this activity to be a success:
 
-## 𝐈𝐦𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐈𝐦𝐚𝐠𝐞𝐬 𝐟𝐫𝐨𝐦 𝐆𝐢𝐭𝐡𝐮𝐛 𝐚𝐧𝐝 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐢𝐧𝐠 𝐅𝐚𝐜𝐞_𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
+## **Importing Images from Github and Installing Face_Recognition**
 
     !git clone https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION.git
     !pip install face_recognition
