@@ -89,11 +89,10 @@ The group used the following codes for this activity to be a success:
     
         cv2_imshow(unknown_image_to_draw)
 
-## Vice President Sara Zimmerman Duterte as Secretary of Education in the Philippines
+## Officials Of The Republic Of The Philippines
 
 
 ![sara](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/fa80e3e6-3835-4aed-a208-786f841de453)
-
 
 
 ![michael (1)](https://github.com/itsayeee/GROUP12_FINALS_FACERECOGNITION/assets/143716528/af40abfb-7c98-4e8e-920a-ed24c10841c9)
