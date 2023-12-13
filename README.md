@@ -181,3 +181,7 @@ https://colab.research.google.com/drive/1g3t00SkJwIkilwauYpvOBfvV-PrenRUW?authus
 ## References
 * https://en.wikipedia.org/wiki/Department_of_Education_(Philippines)
 * https://www.deped.gov.ph/contact-us/directory/
+* https://bomboradyo.com/deped-spokesperson-former-lanao-solon-among-new-marcos-appointees
+* https://www.deped.gov.ph/contact-us/directory/
+* https://www.philstar.com/headlines/2023/06/28/2277075/retired-generals-appointed-deped
+* https://www.deped.gov.ph/about-deped/deped-executive-committee/usec-gina-o-gonong-2/
