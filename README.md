@@ -91,7 +91,7 @@ The group used the following codes for this activity to be a success:
 
 <div align="center">
 
-## Officials Of The Republic Of The Philippines
+## Officials Of The Department of Education in The Philippines
 
 </div>
 
