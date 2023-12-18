@@ -96,7 +96,7 @@ The group used the following codes for this activity to be a success:
 </div>
 
 <div align="justify">
-    The order of precedence in the Philippines is the protocol used in ranking government officials and other personages in the Philippines. Purely ceremonial in nature, it has no legal standing, and does not reflect the presidential line of succession nor the equal status of the three branches of government established in the 1987 Constitution.
+    The Department of Education (DepEd) formulates, implements, and coordinates policies, plans, programs and projects in the areas of formal and non-formal basic education.
 
 ## 1.) Sara Zimmerman Duterte
 
